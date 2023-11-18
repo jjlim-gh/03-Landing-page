@@ -1,0 +1,24 @@
+.footer {
+  background-color: rgb(255, 190, 110);
+  height: 180px;
+}
+
+.footer p {
+  color: white;
+  text-shadow: 0 0 2px black;
+}
+
+.icons {
+  font-size: 40px;
+  letter-spacing: 4px;
+}
+
+.icons a {
+  text-decoration: none;
+  color: rgba(255, 60, 60, 1);
+  transition: .5s ease;
+}
+
+.icons a:hover {
+  color: rgb(255, 115, 0);
+}
